@@ -6,4 +6,4 @@ ENLACE PARA DESCARGAR PROGRAMA:
 - https://crystaldiskinfo.uptodown.com/windows/descargar
 
 ENLACE VIDEO: 
-- 
+- https://youtu.be/B4-dc724xqA
