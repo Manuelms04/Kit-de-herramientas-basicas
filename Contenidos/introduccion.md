@@ -4,3 +4,6 @@ DESCRIPCION DEL PROGRAMA:
   
 ENLACE PARA DESCARGAR PROGRAMA: 
 - https://cpu-z.uptodown.com/windows/descarga  
+
+ENLACE VIDEO: 
+- 
