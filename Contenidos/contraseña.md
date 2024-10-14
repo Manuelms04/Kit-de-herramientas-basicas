@@ -4,5 +4,3 @@ DESCRIPCION DEL PROGRAMA:
 ENLACE PARA DESCARGAR PROGRAMA: 
 - https://ophcrack.sourceforge.io/
 
-ENLACE VIDEO: 
-- 
