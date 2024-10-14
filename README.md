@@ -1,4 +1,4 @@
-# Kit de herramientas-basicas
+# Kit de herramientas basicas
 En este proyecto vamos a trabajar a cerca de las herramientas basicas para obtener informacion de nuestro PC 
 
 
